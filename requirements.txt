@@ -1,0 +1,5 @@
+streamlit
+torch
+bitsandbytes
+openai-whisper
+langchain-ollama

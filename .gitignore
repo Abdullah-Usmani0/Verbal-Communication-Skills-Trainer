@@ -1,0 +1,58 @@
+# Virtual environment (venv)
+verbal_env/
+.venv/
+env/
+
+# Python cache files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Model & data files
+*.bin
+*.ckpt
+*.h5
+*.tflite
+*.onnx
+
+# Logs & temp files
+logs/
+*.log
+*.out
+*.err
+nohup.out
+debug.log
+
+# Streamlit temporary files
+.streamlit/
+.db/
+.history
+
+# Configuration & system files
+config.json  # If this contains sensitive info, otherwise remove this
+.env  # If you use environment variables
+
+# Audio & temp files
+*.wav
+*.mp3
+*.m4a
+*.ogg
+*.flac
+temp_voice_input.mp3
+temp_chat_voice.mp3
+
+# Jupyter Notebook checkpoints (if applicable)
+.ipynb_checkpoints/
+
+# VS Code / JetBrains IDE settings
+.vscode/
+.idea/
+*.iml
+
+# Mac & Windows system files
+.DS_Store
+Thumbs.db
+
+# Dependencies
+requirements.txt.lock
