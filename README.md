@@ -71,7 +71,8 @@ verbal-communication-trainer/
 ├── config.json               # Configuration file with prompts and training scenarios
 ├── main.py                   # Entry point for the Streamlit app with CLI model selection
 ├── requirements.txt          # Python dependencies
-└── README.md                 # Project documentation
+├── Test Samples              #Sample Audio and text file for testing the app  
+└── README.md                 # Project documentation   
 ```
 
 ---
@@ -197,17 +198,4 @@ streamlit run main.py -- --model llama-13b
 
 ## 📜 License
 This project is licensed under the **MIT License**.
-
----
-
-## 🎯 Conclusion
-This framework provides a configurable, caching-efficient system for verbal communication training. Whether for impromptu speaking, storytelling, or conflict resolution, users receive tailored feedback powered by cutting-edge LLMs.
-
-Ready to get started?
-
-```bash
-git clone https://github.com/your-repo-name.git
-cd verbal-communication-trainer
-streamlit run main.py -- --model mistral
-```
 
