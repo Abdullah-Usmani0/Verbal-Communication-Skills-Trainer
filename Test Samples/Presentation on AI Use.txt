@@ -1,0 +1,26 @@
+Presentation Script: How AI is Helping People
+
+[Slide 1: Title Slide]
+Hello everyone,
+Today, I'll be talking about how Artificial Intelligence is helping people and transforming our daily lives.
+
+[Slide 2: What is AI?]
+AI, or Artificial Intelligence, refers to machines or software that can perform tasks that typically require human intelligence — such as understanding language, recognizing patterns, and making decisions.
+
+[Slide 3: How AI is Helping People]
+AI is making a positive impact across various fields:
+
+In Healthcare, AI helps doctors diagnose diseases faster and more accurately.
+In Education, it provides personalized learning experiences for students.
+In Accessibility, AI tools like voice assistants and text-to-speech help people with disabilities communicate more easily.
+In Customer Service, chatbots are available 24/7 to answer questions and solve problems.
+[Slide 4: Real-Life Example]
+A great example is Google's AI-powered flood forecasting system, which warns communities about floods before they happen — saving lives and resources.
+
+[Slide 5: The Future of AI]
+AI is still evolving, but its potential to improve lives is limitless. From fighting climate change to helping people with mental health issues, the future of AI looks promising.
+
+[Slide 6: Conclusion]
+AI is not just about machines — it's about helping people live better, healthier, and more connected lives. As technology advances, it's important to ensure AI remains ethical, fair, and accessible to everyone.
+
+Thank you!

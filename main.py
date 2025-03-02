@@ -23,8 +23,7 @@ args, _ = parser.parse_known_args()
 if "model_name" not in st.session_state:
     st.session_state.model_name = args.model
 
-# Load Models
-whisper_model = load_whisper_model()
+# Load Model
 if "llm" not in st.session_state:
     st.session_state.llm = load_ollama_model(st.session_state.model_name)
 
@@ -161,7 +160,7 @@ if "impromptu_prompt" not in st.session_state:
 
 if "conflict_prompt" not in st.session_state:
     st.session_state.conflict_prompt = random.choice(config["conflict_prompts"])
-    
+
 if module_option == "Training Modules":
     st.header("🎯 Training Modules")
     training_choice = st.selectbox("Choose Training Activity", ["Impromptu Speaking", "Storytelling", "Conflict Resolution"])

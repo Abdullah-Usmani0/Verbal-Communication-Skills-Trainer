@@ -36,7 +36,6 @@ config.json  # If this contains sensitive info, otherwise remove this
 # Audio & temp files
 *.wav
 *.mp3
-*.m4a
 *.ogg
 *.flac
 temp_voice_input.mp3
