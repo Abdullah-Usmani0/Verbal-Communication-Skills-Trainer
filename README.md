@@ -115,11 +115,11 @@ Follow the installation instructions from [ollama.com](https://ollama.com).
 
 #### Download Models
 ```bash
-ollama pull mistral
+ollama run mistral
 ```
 To use a different model (e.g., LLaMA-13B):
 ```bash
-ollama pull llama-13b
+ollama run llama-13b
 ```
 
 ---
