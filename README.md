@@ -189,6 +189,7 @@ streamlit run main.py -- --model llama-13b
 ---
 
 ## 🔮 Further Improvements
+- Model Finetuning on communication training data
 - Multi-model support
 - Enhanced error handling
 - Multi-user sessions
